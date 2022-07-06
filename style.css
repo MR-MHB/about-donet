@@ -50,3 +50,49 @@ p {
     background-color: rgb(255, 99, 71);
     border-radius: 5px;
 }
+
+#section-two {
+    text-align: center;
+}
+
+#sec2-1div {
+    padding-top: 50px;
+    margin-bottom: 80px;
+}
+
+#sec2-1div p {
+    color: gray;
+
+}
+
+#for-form {
+
+    margin: 0px 30px;
+}
+
+.moneybox {
+    display: none;
+}
+
+.money-tag {
+
+    background-color: rgba(206, 199, 199, 0.313);
+    padding: 30px 20px;
+    margin: 50px 10px;
+    font-weight: 600;
+}
+
+input[type="radio"]:checked+label {
+    border: 2px solid orangered;
+    background-color: rgba(217, 104, 104, 0.333);
+    color: rgb(242, 84, 56);
+
+}
+
+#other-amount {
+    margin-top: 90px;
+    border: none;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.358);
+    text-align: center;
+    resize: none;
+}
