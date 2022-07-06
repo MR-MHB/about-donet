@@ -152,3 +152,44 @@ input[type="radio"]:checked+label {
 #plan3 {
     background-color: rgba(225, 202, 27, 0.229);
 }
+
+#exception {
+    display: flex;
+    background-color: #f9e4af;
+    background-size: cover;
+}
+
+.fhalf {
+    width: 50%;
+}
+
+.fhalf h1 {
+    font-size: 40px;
+    font-weight: 900;
+    color: #47b6ba;
+    margin-top: 0;
+}
+
+#fhalid {
+    padding: 20px 80px;
+    /* margin-top: 40px; */
+}
+
+#fhalid2 {
+    margin: 50px;
+}
+
+#baby {
+    width: 20%;
+
+}
+
+#kidlarge {
+    float: left;
+    width: 100%;
+
+    margin: 30px 40px;
+    /* padding: 30px; */
+    border: 3px solid #47b6ba;
+    box-shadow: 10px 10px 40px blue;
+}
